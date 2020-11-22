@@ -9,3 +9,7 @@ Equipment
 * Rechargeable batteries (x3)
 
 The MPU6050 was connected with the AtMega16A through I2C. A PID control library was used to implement the control system.
+
+Link to I2C library: https://github.com/Sovichea/avr-i2c-library
+
+The PID library is included in this repository (courtesy of Davide Gironi).
